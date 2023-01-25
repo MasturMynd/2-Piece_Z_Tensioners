@@ -2,6 +2,8 @@
 
 Frustrated by a number of cracked stock Z tensioners, I finally decided to take matters into my own hands. The print orientation of the stock Z tensioners puts the most force along the layer lines which can easily result in delamination under normal use. These 2-piece tensioners change the print orientation so the forces being applied are perpendicular to the layer lines, resulting in a stronger part.
 
+![Preview](./Images/preview.png)
+
 BOM
 ---
 | Category | Part Description | Qty | Notes |
