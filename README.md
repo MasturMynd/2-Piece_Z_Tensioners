@@ -14,33 +14,33 @@ BOM
 Before We Begin
 ---
 Make sure that you have the proper parts printed for your setup. If you're using the BOM hardware (M5x30 BHCS) make sure you don't have the internal flange.
-(./Images/assembly_before_we_begin.png)
+![Assembly_Before_We_Begin](./Images/assembly_before_we_begin.png)
 
 Heatset Insert
 ---
 Each tensioner assembly requires a single heatset insert that will be used in combination with an M3x25 SHCS to clamp the two pieces together.
-(./Images/assembly_heatset.png)
+![Assembly_Heatset](./Images/assembly_heatset.png)
 
 Idler Shaft
 ---
 BOM - Feed the M5x30 BHCS through the from the outside of part 'b' (as outlined in the naming convention)
 PIN - Press the 5x28mm pin into the pocket of part 'b' (as outlined in the naming convention)
-(./Images/assembly_idler_shaft.png)
+![Assembly_Idler_Shaft](./Images/assembly_idler_shaft.png)
 
 Idler Installation
 ---
 Push the GT2 20T Idler onto the pin or screw that you installed in the previous step.
-(./Images/assembly_idler_install.png)
+![Assembly_Idler_Install](./Images/assembly_idler_install.png)
 
 Two Become One
 ---
 Insert the M3x25 SHCS into the hole and use it to clamp the assembly together. For BOM hardware you'll first want to tighten the M5x30 BHCS as the threads have likely butten into plastic and will be harder to turn.
-(./Images/assembly_compression_screw.png)
-(./Images/assembly_joining.png)
+![Assembly_Compression_Screw](./Images/assembly_compression_screw.png)
+![Assembly_Joining](./Images/assembly_joining.png)
 
 Tensioning Screw
 ---
 Last, install the M3x16 SHCS that is used to tension the belts against the stock tensioner housings.
-(./Images/assembly_tensioner.png)
+![Assembly_Tensioner](./Images/assembly_tensioner.png)
 
 Once each of these tensioner assemblies have been completed, you're ready to install in your V2!
