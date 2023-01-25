@@ -23,7 +23,7 @@ Each tensioner assembly requires a single heatset insert that will be used in co
 
 Idler Shaft
 ---
-BOM - Feed the M5x30 BHCS through the from the outside of part 'b' (as outlined in the naming convention)
+BOM - Feed the M5x30 BHCS through the from the outside of part 'b' (as outlined in the naming convention)<br />
 PIN - Press the 5x28mm pin into the pocket of part 'b' (as outlined in the naming convention)
 ![Assembly_Idler_Shaft](./Images/assembly_idler_shaft.png)
 
